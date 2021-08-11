@@ -9,6 +9,7 @@ You need to prepare:
 5. Press start.bat to enjoy
 
 您需要准备：
+
 1.python3.7.2（不是硬性要求，但是至少要能正常运行）
 
 2.window64
