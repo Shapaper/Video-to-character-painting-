@@ -3,9 +3,13 @@ This program can convert video into character painting.这个程序可以将视�
 
 You need to prepare:
 1. Python 3.7.2 (not a mandatory requirement, but at least it should work normally)
+
 2.window64
+
 3. Enough memory
+
 4. Please have a translator to convert Chinese notes [if it's too troublesome, you can translate the things in print and submit them to me as a branch.]
+
 5. Press start.bat to enjoy
 
 您需要准备：
